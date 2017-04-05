@@ -1,1 +1,1 @@
-# achiradc
+# Proyecto PrestaShop para la web achiradc (Achira Dulceria Creativa)
